@@ -1,0 +1,60 @@
+@charset "utf-8";
+#detail
+{
+	margin-top:20px;
+	padding:30px;
+	height:auto;	
+	background-color: rgba(230, 228, 222, 0.8); 
+}
+
+#detail #text
+{
+	width: 40%;
+	float:left;
+}
+
+#detail #image img
+{
+	width: 50%;
+	height: 80%;
+	margin-left: 40px;
+}
+#reason
+{
+	text-align:center;
+}
+
+#reason table
+{
+	width:70%;
+	display:inline-block;
+	border:0;
+	text-align:left;
+	
+}
+
+#reason table tr td
+{
+	width:50%;
+}
+
+#reason table tr td i
+{
+	color:#0F6;
+	margin-right: 10px;
+	margin-bottom:10px;
+	font-size:16px;
+}
+
+#courses
+{
+	margin-top:20px;
+	padding:30px;
+	height:auto;
+	background-color: rgba(230, 228, 222, 0.8); 
+}
+
+#courses a
+{
+	text-decoration:none;
+}
