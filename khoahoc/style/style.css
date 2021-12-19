@@ -616,27 +616,75 @@ nav{
 	font-size:18px;
 }
 
-footer
-{
-	background:#000;
-	color:#FFF;
-	padding:20px 0px;;
-}
-footer table tr td a
-{
-	color:#FFF;
-	text-decoration:none;
-}
-footer table tr td a:hover
-{
-	text-decoration:underline;
-	color:#CCC;
-}
-footer a img
-{
-	float:left;
-	margin-left:50px;
-	margin-right:50px;
-	width: 300px;
+
+.footer {
+    color: lightgray;
+    padding: 35px;
+    background-color: black;
+    overflow: auto;
 }
 
+
+.footer1 {
+    display: block;
+    float: left;
+    width: 430px;
+}
+.footer1 img
+{
+	height: 100px;
+}
+
+.content1 {
+    margin: 50px 20px 0px 0px;
+}
+
+.f1 {
+    line-height: 25px;
+    padding: 5px;
+    margin: 0px;
+}
+
+.footer2 {
+    display: block;
+    float: left;
+    width: 200px;
+    margin: 0px 50px;
+}
+
+.h3white {
+    color: white;
+}
+
+.list {
+    list-style-type: none;
+    padding-left: 0px;
+    text-decoration: none;
+    line-height: 30px;
+}
+
+.line {
+    border-top: 1px solid rgb(20, 20, 20);
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+.link {
+    text-decoration: none;
+    color: lightgray;
+}
+
+.footer3 {
+    display: block;
+    float: left;
+    width: 200px;
+    margin: 0px 50px;
+}
+
+.footer4 {
+    display: block;
+    float: left;
+    width: 300px;
+    margin: 0px 50px;
+}
