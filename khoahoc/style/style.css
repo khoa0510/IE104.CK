@@ -207,7 +207,8 @@ nav{
 }
 #html .box div.detail ul
 {
-	list-style:hiragana-iroha;
+	list-style:circle;
+	font-size:18px;
 }
 #html .box2 div.detail
 {
@@ -227,7 +228,8 @@ nav{
 }
 #html .box2 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #html .box3 div.detail
 {
@@ -247,7 +249,8 @@ nav{
 }
 #html .box3 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #html .box4 div.detail
 {
@@ -267,7 +270,8 @@ nav{
 }
 #html .box4 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 
 #css .box div.detail
@@ -289,7 +293,8 @@ nav{
 }
 #css .box div.detail ul
 {
-	list-style:hiragana-iroha;
+	list-style:circle;
+	font-size:18px;
 }
 #css .box2 div.detail
 {
@@ -309,7 +314,8 @@ nav{
 }
 #css .box2 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #css .box3 div.detail
 {
@@ -329,7 +335,8 @@ nav{
 }
 #css .box3 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #css .box4 div.detail
 {
@@ -349,7 +356,8 @@ nav{
 }
 #css .box4 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #js .box div.detail
 {
@@ -370,7 +378,8 @@ nav{
 }
 #js .box div.detail ul
 {
-	list-style:hiragana-iroha;
+	list-style:circle;
+	font-size:18px;
 }
 #js .box2 div.detail
 {
@@ -390,7 +399,8 @@ nav{
 }
 #js .box2 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #js .box3 div.detail
 {
@@ -410,7 +420,8 @@ nav{
 }
 #js .box3 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #js .box4 div.detail
 {
@@ -430,7 +441,8 @@ nav{
 }
 #js .box4 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #jquery .box div.detail
 {
@@ -451,7 +463,8 @@ nav{
 }
 #jquery .box div.detail ul
 {
-	list-style:hiragana-iroha;
+	list-style:circle;
+	font-size:18px;
 }
 #jquery .box2 div.detail
 {
@@ -471,7 +484,8 @@ nav{
 }
 #jquery .box2 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #jquery .box3 div.detail
 {
@@ -511,7 +525,8 @@ nav{
 }
 #jquery .box4 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 
 #PHP .box div.detail
@@ -534,7 +549,8 @@ nav{
 }
 #PHP .box div.detail ul
 {
-	list-style:hiragana-iroha;
+	list-style:circle;
+	font-size:18px;
 }
 #PHP .box2 div.detail
 {
@@ -554,7 +570,8 @@ nav{
 }
 #PHP .box2 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #PHP .box3 div.detail
 {
@@ -574,7 +591,8 @@ nav{
 }
 #PHP .box3 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #PHP .box4 div.detail
 {
@@ -594,7 +612,8 @@ nav{
 }
 #PHP .box4 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 
 footer
