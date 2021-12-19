@@ -98,10 +98,10 @@ nav{
 }
 .box
 {
-	border: 1px solid #000;
 	width: 250px;
 	background-color:#FFF;
 	display:inline-block;
+	box-shadow: 5px 5px 6px 0px black;
 }
 
 .box img
@@ -125,11 +125,11 @@ nav{
 }
 .box2
 {
-	border: 1px solid #000;
 	width: 250px;
 	background-color:#FFF;
 	display:inline-block;
 	margin-left: 100px;
+	box-shadow: 5px 5px 6px 0px black;
 }
 
 .box2 img
@@ -147,11 +147,11 @@ nav{
 }
 .box3
 {
-	border: 1px solid #000;
 	width: 250px;
 	background-color:#FFF;
 	display:inline-block;
 	margin-left: 100px;
+	box-shadow: 5px 5px 6px 0px black;
 }
 
 .box3 img
@@ -169,7 +169,7 @@ nav{
 }
 .box4
 {
-	border: 1px solid #000;
+    box-shadow: 5px 5px 6px 0px black;
 	width: 250px;
 	background-color:#FFF;
 	display:inline-block;
@@ -207,7 +207,8 @@ nav{
 }
 #html .box div.detail ul
 {
-	list-style:hiragana-iroha;
+	list-style:circle;
+	font-size:18px;
 }
 #html .box2 div.detail
 {
@@ -227,7 +228,8 @@ nav{
 }
 #html .box2 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #html .box3 div.detail
 {
@@ -247,7 +249,8 @@ nav{
 }
 #html .box3 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #html .box4 div.detail
 {
@@ -267,7 +270,8 @@ nav{
 }
 #html .box4 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 
 #css .box div.detail
@@ -289,7 +293,8 @@ nav{
 }
 #css .box div.detail ul
 {
-	list-style:hiragana-iroha;
+	list-style:circle;
+	font-size:18px;
 }
 #css .box2 div.detail
 {
@@ -309,7 +314,8 @@ nav{
 }
 #css .box2 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #css .box3 div.detail
 {
@@ -329,7 +335,8 @@ nav{
 }
 #css .box3 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #css .box4 div.detail
 {
@@ -349,7 +356,8 @@ nav{
 }
 #css .box4 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #js .box div.detail
 {
@@ -370,7 +378,8 @@ nav{
 }
 #js .box div.detail ul
 {
-	list-style:hiragana-iroha;
+	list-style:circle;
+	font-size:18px;
 }
 #js .box2 div.detail
 {
@@ -390,7 +399,8 @@ nav{
 }
 #js .box2 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #js .box3 div.detail
 {
@@ -410,7 +420,8 @@ nav{
 }
 #js .box3 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #js .box4 div.detail
 {
@@ -430,7 +441,8 @@ nav{
 }
 #js .box4 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #jquery .box div.detail
 {
@@ -451,7 +463,8 @@ nav{
 }
 #jquery .box div.detail ul
 {
-	list-style:hiragana-iroha;
+	list-style:circle;
+	font-size:18px;
 }
 #jquery .box2 div.detail
 {
@@ -471,7 +484,8 @@ nav{
 }
 #jquery .box2 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #jquery .box3 div.detail
 {
@@ -511,7 +525,8 @@ nav{
 }
 #jquery .box4 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 
 #PHP .box div.detail
@@ -534,7 +549,8 @@ nav{
 }
 #PHP .box div.detail ul
 {
-	list-style:hiragana-iroha;
+	list-style:circle;
+	font-size:18px;
 }
 #PHP .box2 div.detail
 {
@@ -554,7 +570,8 @@ nav{
 }
 #PHP .box2 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #PHP .box3 div.detail
 {
@@ -574,7 +591,8 @@ nav{
 }
 #PHP .box3 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 #PHP .box4 div.detail
 {
@@ -594,30 +612,79 @@ nav{
 }
 #PHP .box4 div.detail ul
 {
-	list-style:cjk-ideographic;
+	list-style:circle;
+	font-size:18px;
 }
 
-footer
-{
-	background:#000;
-	color:#FFF;
-	padding:20px 0px;;
-}
-footer table tr td a
-{
-	color:#FFF;
-	text-decoration:none;
-}
-footer table tr td a:hover
-{
-	text-decoration:underline;
-	color:#CCC;
-}
-footer a img
-{
-	float:left;
-	margin-left:50px;
-	margin-right:50px;
-	width: 300px;
+
+.footer {
+    color: lightgray;
+    padding: 35px;
+    background-color: black;
+    overflow: auto;
 }
 
+
+.footer1 {
+    display: block;
+    float: left;
+    width: 430px;
+}
+.footer1 img
+{
+	height: 100px;
+}
+
+.content1 {
+    margin: 50px 20px 0px 0px;
+}
+
+.f1 {
+    line-height: 25px;
+    padding: 5px;
+    margin: 0px;
+}
+
+.footer2 {
+    display: block;
+    float: left;
+    width: 200px;
+    margin: 0px 50px;
+}
+
+.h3white {
+    color: white;
+}
+
+.list {
+    list-style-type: none;
+    padding-left: 0px;
+    text-decoration: none;
+    line-height: 30px;
+}
+
+.line {
+    border-top: 1px solid rgb(20, 20, 20);
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+.link {
+    text-decoration: none;
+    color: lightgray;
+}
+
+.footer3 {
+    display: block;
+    float: left;
+    width: 200px;
+    margin: 0px 50px;
+}
+
+.footer4 {
+    display: block;
+    float: left;
+    width: 300px;
+    margin: 0px 50px;
+}
