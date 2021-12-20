@@ -72,3 +72,115 @@
 {
 	text-decoration:none;
 }
+.box
+{
+	width: 250px;
+	background-color:#FFF;
+	display:inline-block;
+	box-shadow: 5px 5px 6px 0px black;
+}
+
+.box img
+{
+	width: 250px;
+	height: 200px;
+}
+.box .info
+{
+	margin: 10px;
+}
+.box .info p
+{
+	color: rgba(171, 171, 168, 0.7);
+}
+.cost
+{
+	text-align:right;
+	font-size:18px;
+	color:#000;
+}
+ .box div.detail
+{
+    background-color: white;
+    position: absolute;
+    display: none;
+    border: 1px solid #434343;
+    width: 250px;
+	height: 300px;
+	padding: 10px;
+	margin-top: -350px;
+    margin-left: 260px;
+}
+ .box:hover div.detail
+{
+	display:block;
+}
+ .box div.detail ul
+{
+	list-style:circle;
+	font-size:18px;
+}
+ .box div.detail
+{
+    background-color: white;
+    position: absolute;
+    display: none;
+    border: 1px solid #434343;
+    width: 250px;
+	height: 300px;
+	padding: 10px;
+	margin-top: -350px;
+    margin-left: 260px;
+}
+ .box:hover div.detail
+{
+	display:block;
+}
+ .box div.detail ul
+{
+	list-style:circle;
+	font-size:18px;
+}
+.box2
+{
+	width: 250px;
+	background-color:#FFF;
+	display:inline-block;
+	margin-left: 100px;
+	box-shadow: 5px 5px 6px 0px black;
+}
+
+.box2 img
+{
+	width: 250px;
+	height: 200px;
+}
+.box2 .info
+{
+	margin: 10px;
+}
+.box2 .info p
+{
+	color: rgba(171, 171, 168, 0.7);
+}
+ .box2 div.detail
+{
+    background-color: white;
+    position: absolute;
+    display: none;
+    border: 1px solid #434343;
+    width: 250px;
+	height: 300px;
+	padding: 10px;
+	margin-top: -350px;
+    margin-left: 260px;
+}
+ .box2:hover div.detail
+{
+	display:block;
+}
+ .box2 div.detail ul
+{
+	list-style:circle;
+	font-size:18px;
+}
