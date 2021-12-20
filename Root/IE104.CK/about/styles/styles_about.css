@@ -1,3 +1,40 @@
 @charset "utf-8";
 /* CSS Document */
+#left-side {
+	display: block;
+	float: left;
+	width: 20%;
+	position: sticky;
+	left: 0px;
+	top: 20%;
+}
 
+#right-side {
+	display: block;
+	float: right;
+	width: 80%;
+}
+
+#nav_about {
+	list-style: none;
+	font-size: larger;
+	padding: 0px;
+	line-height: 150%;
+}
+
+#nav_about li {
+	padding: 20px;
+}
+
+#nav_about li:hover {
+	background-color: gainsboro;
+}
+
+#nav_about a{
+	text-decoration: none;
+	color: black;
+}
+
+.clear {
+	clear:both;
+}

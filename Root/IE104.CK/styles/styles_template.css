@@ -92,13 +92,12 @@ nav{
     color: lightgray;
     padding: 35px;
     background-color: black;
-    overflow: auto;
+	height: auto;
 }
 
 
 .footer1 {
-    display: block;
-    float: left;
+    display: inline-block;
     width: 430px;
 }
 
@@ -118,8 +117,8 @@ nav{
 }
 
 .footer2 {
-    display: block;
-    float: left;
+    display: inline-block;
+	vertical-align: top;
     width: 200px;
     margin: 0px 50px;
 }
@@ -148,15 +147,15 @@ nav{
 }
 
 .footer3 {
-    display: block;
-    float: left;
+    display: inline-block;
+	vertical-align: top;
     width: 200px;
     margin: 0px 50px;
 }
 
 .footer4 {
-    display: block;
-    float: left;
+    display: inline-block;
+	vertical-align: top;
     width: 300px;
     margin: 0px 50px;
 }
