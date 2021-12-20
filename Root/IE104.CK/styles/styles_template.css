@@ -18,10 +18,10 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     flex-direction: row;
     align-content: space-between;
-	height: 100px;
+	padding: 10px;
 }
 #logo img
 {
