@@ -43,15 +43,17 @@ nav{
 	padding: 25px 20px;
 	text-decoration:none;
 }
-#main-menu li:hover
-{
-	border: 1px solid #6e6e6e;
+#main-menu li a.main_nav:hover {
+	color: black;
+	background-color: white;
+	border-radius: 10px;
 }
 #main-menu li img
 {
-	height:70px;
-	width: 70px;
-	border-radius:50%; 
+	height: 50px;
+	width: 50px;
+	border-radius:50%;
+	padding: 10px;
 }
 #main-menu ul.sub-menu{
      position:absolute;
@@ -71,11 +73,10 @@ nav{
 #main-menu ul.sub-menu a
 {
 	padding: 8px 15px;
-	border: 1px solid #434343 ;
 }
-#main-menu ul.sub-menu li:hover>a
+.sub-menu li a
 {
-	border: 1px solid #6e6e6e;
+	color: white;
 }
 
 #main-menu ul.sub-menu li:last-chid a{
