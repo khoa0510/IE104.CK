@@ -1,0 +1,187 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 20px;
+	font-size:20px;
+}
+
+#image
+{
+	display:inline;
+	float:left;
+	width: 40%;
+	padding: 30px 30px 40px;
+}
+#image img
+{
+	width: 700px;
+    height: 400px;
+}
+#wrapper
+{
+	text-align:right;
+}
+#container
+{
+	width: 50%;
+	display:inline-block;
+	justify-content: center;
+	align-items: center;
+	text-align:left;
+}
+#form-login
+{
+	padding: 30px 30px 40px ;
+}
+h2
+{
+	font-size: 24px;
+	color:#000;
+	text-align:center;
+	margin-bottom:30px;
+}
+#link-box div
+{
+	text-align:center;
+	color:#FFF;
+	font-size: 16px;
+	font-weight:700;
+	border-radius: 10px;
+}
+#link-box div i
+{
+	color:#FFF;
+}
+#link-box div a
+{
+	color:#FFF;
+	text-decoration:none;
+}
+.facebook
+{
+	margin-bottom: 20px;
+	width:45%;
+	padding: 10px;
+	background-color:#06C;
+	float:left;
+}
+.yahoo
+{
+	
+	width:45%;
+	padding: 10px;
+	background-color:#90C;
+	float:left;
+}
+.google
+{
+	margin-bottom: 20px;
+	width:45%;
+	padding: 10px;
+	background-color:#F33;
+	float:right;
+}
+.apple
+{
+	width:45%;
+	padding: 10px;
+	background-color:#000;
+	float:right;
+}
+.clear-both {
+    clear: both;
+}
+.signupforms .row-signup {
+    margin-top: 20px;
+}
+.light-hight-left {
+    min-width: 47%!important;
+    border-top: 1px solid #a9a9a9;
+    margin-top: 20px;
+    float: left;
+}
+.light-hight-right {
+    min-width: 47%!important;
+    border-top: 1px solid #a9a9a9;
+    margin-top: 20px;
+    float: right;
+}
+.form-group
+{
+	border: 1px solid rgba(0, 0, 0, 0.4);
+	margin-top:15px;
+	margin-bottom: 20px;
+}
+.form-group i
+{
+	font-size:16px;
+	color:#000;
+	padding-right:5px;
+}
+#eye
+{
+	padding:0px;
+	font-size:16px;
+	width:10%;
+	cursor:pointer;
+}
+.form-input
+{
+	background: transparent;
+	border:0;
+	outline:0;
+	font-size:16px;
+	color:#000;
+	width:93%;
+	padding: 10px;
+	padding-bottom: 5px;
+	padding-right: 0px;
+}
+.form-input::placeholder
+{
+	color:#000;
+}
+.form-checkbox
+{
+	color:#000;
+}
+.form-submit
+{
+	margin: 20px;
+	background:#666;
+	border: 1px solid #f5f5f5;
+	color:#fff;
+	width:100%;
+	text-transform:uppercase;
+	padding: 10px 10px;
+	transition:0.25s;
+	border-radius: 20px;
+	font-weight:700;
+	font-size:16px;
+}
+.form-submit:hover
+{
+	border: 1px solod rgb(127,166,248);
+}
+#after{
+	color:#999999;
+	text-align:center;
+	line-height: 24px;
+}
+
+#after div a
+{
+	color:#C03;
+	text-decoration:none;
+	font-size:18px;
+	margin-top: 20px;
+}
+.clear-both {
+    clear: both;
+}
+.signupforms .row-signup {
+    margin-top: 20px;
+}
+
