@@ -8,6 +8,13 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
+#nav {
+	margin-left: 50px;
+}
+.nav {
+    color: steelblue;
+    text-decoration: none;
+}
 .box {
   width: 250px;
   background-color: #FFF;
