@@ -6,7 +6,6 @@ body{
 }
 .courses-group
 {
-	margin: 20px;
 	max-height: 500px;
 }
 #html,#css,#js,#jquery,#PHP
