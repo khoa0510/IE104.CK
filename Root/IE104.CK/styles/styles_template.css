@@ -26,7 +26,7 @@ nav{
 #logo img
 {
 	height: 70px;
-	margin-left: 70px;
+	margin-left: 50px;
 }
 #main-menu
 {
@@ -35,15 +35,14 @@ nav{
 	margin:0;
 	padding:0;
 	padding-right:50px;
-	float:right;
 }
 #main-menu li{
-	margin-left:20px;
+	margin-left: 20px;
 }
 #main-menu li a{
 	color:#f8f8f8;
 	display:block;
-	padding: 25px 20px;
+	padding: 20px;
 	text-decoration:none;
 }
 #main-menu li a.main_nav:hover {
@@ -78,12 +77,14 @@ nav{
     padding: 35px;
     background-color: black;
 	height: auto;
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
 }
 
 
 .footer1 {
-    display: inline-block;
-    width: 430px;
+    width: 350px;
 }
 
 .footer1 img
@@ -102,10 +103,8 @@ nav{
 }
 
 .footer2 {
-    display: inline-block;
 	vertical-align: top;
-    width: 200px;
-    margin: 0px 50px;
+    width: 150px;
 }
 
 .h3white {
@@ -132,15 +131,11 @@ nav{
 }
 
 .footer3 {
-    display: inline-block;
 	vertical-align: top;
-    width: 200px;
-    margin: 0px 50px;
+    width: 150px;
 }
 
 .footer4 {
-    display: inline-block;
 	vertical-align: top;
-    width: 300px;
-    margin: 0px 50px;
+    width: 250px;
 }
