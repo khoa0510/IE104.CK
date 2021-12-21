@@ -8,7 +8,6 @@ body
 #image
 {
 	display:inline;
-	float:left;
 	width: 40%;
 	padding: 30px 30px 40px;
 }
@@ -19,11 +18,11 @@ body
 }
 #wrapper
 {
-	text-align:right;
+	text-align:center;
 }
 #content
 {
-	width: 50%;
+	width: 100%;
 	display:inline-block;
 	justify-content: center;
 	align-items: center;

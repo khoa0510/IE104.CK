@@ -8,7 +8,8 @@
 	margin-top:20px;
 	padding:30px;
 	height:auto;	
-	background-color: rgba(230, 228, 222, 0.8); 
+	background-color: #075183;
+	color: #FFF; 
 }
 
 #detail #intro
@@ -21,8 +22,6 @@
 #detail #image
 {
 	display: inline-block;
-	width: 50%;
-	height: 80%;
 	margin-left: 5%;
 	min-width: 400px;
 	vertical-align: middle;
@@ -50,6 +49,8 @@
 #reason table tr td
 {
 	width:50%;
+	padding: 10px;
+	font-size: 18px;
 }
 
 #reason table tr td i
@@ -63,9 +64,10 @@
 #courses
 {
 	margin-top:20px;
-	padding:90px;
+	padding:40px;
 	height:auto;
-	background-color: rgba(230, 228, 222, 0.8); 
+	background-color: #075183; 
+	color: #FFF;
 }
 
 #courses a
@@ -90,9 +92,12 @@
 {
 	margin: 10px;
 }
+.box .info h3{
+	color: black;
+}
 .box .info p
 {
-	color: rgba(171, 171, 168, 0.7);
+	color: rgba(134, 134, 132, 0.7);
 }
 .cost
 {
@@ -116,31 +121,15 @@
 {
 	display:block;
 }
- .box div.detail ul
+.box div.detail h3
 {
-	list-style:circle;
-	font-size:18px;
-}
- .box div.detail
-{
-    background-color: white;
-    position: absolute;
-    display: none;
-    border: 1px solid #434343;
-    width: 250px;
-	height: 300px;
-	padding: 10px;
-	margin-top: -350px;
-    margin-left: 260px;
-}
- .box:hover div.detail
-{
-	display:block;
+	color: black;
 }
  .box div.detail ul
 {
 	list-style:circle;
-	font-size:18px;
+	font-size:16px;
+	color: black;
 }
 .box2
 {
@@ -160,9 +149,13 @@
 {
 	margin: 10px;
 }
+.box2 .info h3
+{
+	color: black;
+}
 .box2 .info p
 {
-	color: rgba(171, 171, 168, 0.7);
+	color: rgba(119, 119, 117, 0.7);
 }
  .box2 div.detail
 {
@@ -180,8 +173,13 @@
 {
 	display:block;
 }
+.box2 div.detail h3
+{
+	color: black;
+}
  .box2 div.detail ul
 {
 	list-style:circle;
-	font-size:18px;
+	font-size:16px;
+	color: black;
 }
