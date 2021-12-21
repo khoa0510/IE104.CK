@@ -1,40 +1,38 @@
 @charset "utf-8";
 /* CSS Document */
 #left-side {
-	display: block;
-	float: left;
-	width: 20%;
-	position: sticky;
-	left: 0px;
-	top: 20%;
+  display: block;
+  float: left;
+  width: 20%;
+  position: sticky;
+  left: 0px;
+  top: 10%;
 }
-
 #right-side {
-	display: block;
-	float: right;
-	width: 80%;
+  display: block;
+  float: right;
+  width: 80%;
 }
-
 #nav_about {
-	list-style: none;
-	font-size: larger;
-	padding: 0px;
-	line-height: 150%;
+  list-style: none;
+  font-size: larger;
+  padding: 0px;
+  line-height: 150%;
 }
-
 #nav_about li {
-	padding: 20px;
+  padding: 20px;
+  border-radius: 0px 30px 30px 0px;
+  background-color: gainsboro;
+margin-top: 30px;
+	margin-right: 20px;
 }
-
 #nav_about li:hover {
-	background-color: gainsboro;
+  font-weight: bold;
 }
-
-#nav_about a{
-	text-decoration: none;
-	color: black;
+#nav_about a {
+  text-decoration: none;
+  color: black;
 }
-
 .clear {
-	clear:both;
+  clear: both;
 }
