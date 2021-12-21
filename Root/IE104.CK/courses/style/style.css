@@ -2,15 +2,12 @@
 /* CSS Document */
 body{
 	font-family:Arial, Helvetica, sans-serif ;
+	font-size: 20px;
 	
 }
 .courses-group
 {
 	max-height: 500px;
-}
-#html,#css,#js,#jquery,#PHP
-{
-	padding: 10px;
 }
 #html,#js,#PHP
 {
@@ -299,7 +296,7 @@ body{
 #js .box div.detail ul
 {
 	list-style:circle;
-	font-size:16px;
+	font-size:18px;
 }
 #js .box2 div.detail
 {
@@ -320,7 +317,7 @@ body{
 #js .box2 div.detail ul
 {
 	list-style:circle;
-	font-size:16px;
+	font-size:18px;
 }
 #js .box3 div.detail
 {
@@ -341,7 +338,7 @@ body{
 #js .box3 div.detail ul
 {
 	list-style:circle;
-	font-size:16px;
+	font-size:18px;
 }
 #js .box4 div.detail
 {
@@ -362,7 +359,7 @@ body{
 #js .box4 div.detail ul
 {
 	list-style:circle;
-	font-size:16px;
+	font-size:18px;
 }
 #jquery .box div.detail
 {
@@ -460,6 +457,7 @@ body{
 	height: 300px;
     margin-top: -350px;
     margin-left: 10px;
+]
 	padding: 10px;
 }
 #PHP .box:hover div.detail

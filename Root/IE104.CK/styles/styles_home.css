@@ -63,7 +63,7 @@
 #courses
 {
 	margin-top:20px;
-	padding:30px;
+	padding:90px;
 	height:auto;
 	background-color: rgba(230, 228, 222, 0.8); 
 }
@@ -71,6 +71,7 @@
 #courses a
 {
 	text-decoration:none;
+	color:#FFF;
 }
 .box
 {
