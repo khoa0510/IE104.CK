@@ -55,7 +55,7 @@
   margin: 10px;
 }
 .box .info p {
-  color: rgba(171, 171, 168, 0.7);
+  color: gray;
 }
 .cost {
   text-align: right;
@@ -73,6 +73,7 @@
   margin-top: -350px;
   margin-left: 260px;
   z-index: 1;
+  line-height: 150%;
 }
 .box div.detail::after {
   content: "";
