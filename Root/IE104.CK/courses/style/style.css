@@ -2,12 +2,16 @@
 /* CSS Document */
 body{
 	font-family:Arial, Helvetica, sans-serif ;
-	font-size: 20px;
+	font-size: 16px;
 	
 }
 .courses-group
 {
 	max-height: 500px;
+}
+#html,#css,#js,#jquery,#PHP
+{
+	padding-left: 20px;
 }
 #html,#js,#PHP
 {
