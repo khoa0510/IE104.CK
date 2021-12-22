@@ -16,6 +16,7 @@ header
 	position: sticky;
 	top: 0px;
 	left: 0px;
+	z-index: 1;
 }
 nav{
     display: flex;

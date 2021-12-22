@@ -18,12 +18,13 @@
   font-size: larger;
   padding: 0px;
   line-height: 150%;
+  margin-top: 0px;
 }
 #nav_about li {
   padding: 20px;
   border-radius: 0px 30px 30px 0px;
   background-color: gainsboro;
-margin-top: 30px;
+  margin-top: 30px;
 	margin-right: 20px;
 }
 #nav_about li:hover {

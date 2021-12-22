@@ -13,6 +13,7 @@
 	display: inline-block;
 	min-width: 400px;
   font-size: larger;
+  vertical-align: middle;
 }
 
 #detail #image
